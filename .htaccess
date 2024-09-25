@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^LoginHere$ Balones_login.php [L]
+RewriteRule ^HomePage$ Balones_home.php [L]
